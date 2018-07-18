@@ -1,37 +1,26 @@
-# note-detector
-To detect the notes you are playing on your instrument or from a file
-
-This is (will be) a small web application to read analyse and detect the notes of audio. With the goal to read the notes played from an instrument.
-
-
+# Webpack Base
+A webpack base starting with simple bundling and sass. To be build upon when needed.
 
 # Table of Content
 - [Getting started](#getting-started)
-- [Steps to make](#steps-to-make)
-- [Learning goals](#learning-goals)
+- [How to use](#how-to-use)
 
 # Getting started
 
 ``` bash
 // Clone the repo
-$ git clone https://github.com/kyunwang/note-detector.git
+$ git clone https://github.com/kyunwang/webpack-base.git
 
 // And open the index.html.
 
 // That's all!
 ```
 
-# Steps to make
-The steps I have to take in large outlining:
+# How to use
+Here are some steps on how to start with this base. e.g. about the configs
 
-1. 
+*To be added*
+<!-- 1.  -->
 
-# Learning goals
-Implement and learn some more about:
-- service workers or web worker
-- canvas
-- web audio
-- streaming audio 
-- webpack (just to learn as it is too OP for such a small project)
+*P.S. For some configs you can choose which to use e.g. `webpack dev server` or `webpack serve`, `sass-loader` or `fast-sass-loader`. Delete the one you do not need/want.*
 
-Based on: https://github.com/cwilso/PitchDetect
